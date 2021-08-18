@@ -1,2 +1,3 @@
-# Javascript-deep-dive
-TIL from Javascript deep dive
+# Javascript deep dive
+> TIL from Javascript deep dive
+
