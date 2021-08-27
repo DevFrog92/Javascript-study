@@ -11,4 +11,6 @@
   - What is linked list and array?
 - Chapter05: Expression and Statement
   - value, expression, evalutate
+- Chapter06: Data type
+  - primitive and object/reference type
 
