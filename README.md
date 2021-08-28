@@ -7,10 +7,20 @@
 - Chapter02: What is Javascript?
 - Chapter03: Environment of Javascript
 - Chapter04: Variable
-  - What is difference of  immutable and mutable?
-  - What is linked list and array?
+  - When are variables declared and assigned?
+  - What is hoisting?
+    ```javascript
+    console.log(variable); // undefined 2. console.log
+
+    variable = 80; // 3. assigned
+    var variable; // 1. declar
+
+    console.log(variable) // 80 // 4. console.log
+    ```
 - Chapter05: Expression and Statement
   - value, expression, evalutate
 - Chapter06: Data type
-  - primitive and object/reference type
-
+  - Why we need the datatypes?
+  - Primitive and object/reference type
+  - What is difference of immutable and mutable?
+- Chapter07: Operator
