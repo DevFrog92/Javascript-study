@@ -25,3 +25,11 @@
   - What is difference of immutable and mutable?
 - Chapter07: Operator
 - Chapter08: Control flow statement
+  - Conditional statement
+    - What is fall through in switch statement?
+  - loop statement
+    - What situtations should we use the for or while?
+    - What is label statement?
+- Chapter09: Type casting
+  - Explicit coercion and Implicit coercion
+
