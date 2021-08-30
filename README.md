@@ -32,4 +32,5 @@
     - What is label statement?
 - Chapter09: Type casting
   - Explicit coercion and Implicit coercion
+  - Truthy and falsy value in javascript
 
