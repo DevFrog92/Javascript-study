@@ -34,4 +34,7 @@
   - Explicit coercion and Implicit coercion
   - Truthy and falsy value in javascript
   - Short-circuit evaulation
-
+  - Optional chaining `?.`
+  - null coalescing `??`
+- Chapter10: Object literal
+  - Property and Method
