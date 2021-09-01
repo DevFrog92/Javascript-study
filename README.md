@@ -39,3 +39,5 @@
 - Chapter10: Object literal
   - Property and Method
 - Chapter11: Primitive type and Object/refrence type
+  - Mutable and immutable value
+  - What is pass by value and pass by reference?
