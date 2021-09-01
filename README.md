@@ -42,3 +42,5 @@
   - Mutable and immutable value
   - What is pass by value and pass by reference?
   - What is array like object?
+  - What is shallow copy and deep copy
+- Chapter12: Function
