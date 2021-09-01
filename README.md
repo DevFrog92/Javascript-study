@@ -38,3 +38,4 @@
   - null coalescing `??`
 - Chapter10: Object literal
   - Property and Method
+- Chapter11: Primitive type and Object/refrence type
