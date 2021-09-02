@@ -43,4 +43,5 @@
   - What is shallow copy and deep copy
 - Chapter12: Function
   - Argument, Parameter, Return value
-  - The function is called by identifier not function name.
+  - Functinos are called by identifier, not by function name
+  - Javascript function is the first class object
