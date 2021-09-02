@@ -1,8 +1,6 @@
 # Javascript deep dive
 > TIL from Javascript deep dive
 
-
-
 - Chapter01: What is programming?
 - Chapter02: What is Javascript?
 - Chapter03: Environment of Javascript
@@ -44,3 +42,4 @@
   - What is array like object?
   - What is shallow copy and deep copy
 - Chapter12: Function
+  - Argument, Parameter, Return value
