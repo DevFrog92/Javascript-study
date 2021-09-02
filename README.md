@@ -48,3 +48,5 @@
   - What is different between function declaration and function literal?
   - Arrow function(ES6)
   - Recursive function
+  - What is callback function and higher-order function?
+  - Pure and impure function
