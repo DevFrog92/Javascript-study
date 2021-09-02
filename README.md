@@ -45,3 +45,6 @@
   - Argument, Parameter, Return value
   - Functinos are called by identifier, not by function name
   - Javascript function is the first class object
+  - What is different between function declaration and function literal?
+  - Arrow function(ES6)
+  - Recursive function
