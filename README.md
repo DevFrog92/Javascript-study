@@ -57,3 +57,5 @@
   - Scope chain
   - Lexical scope and dynamic scope
 - Chapter14: The problem of global variable
+  - Life cycle of variable
+  - Implicit coupling
