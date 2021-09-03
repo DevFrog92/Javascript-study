@@ -56,3 +56,4 @@
   - Scope is name space
   - Scope chain
   - Lexical scope and dynamic scope
+- Chapter14: The problem of global variable
