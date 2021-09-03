@@ -60,3 +60,4 @@
   - Life cycle of variable
   - Implicit coupling
 - Chapter15 : let, const keyward and block level scope
+  - What is TDZ?
