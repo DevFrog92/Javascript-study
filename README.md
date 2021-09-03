@@ -59,5 +59,6 @@
 - Chapter14: The problem of global variable
   - Life cycle of variable
   - Implicit coupling
-- Chapter15 : let, const keyward and block level scope
+- Chapter15: let, const keyward and block level scope
   - What is TDZ?
+- Chapter16: Property attribute
