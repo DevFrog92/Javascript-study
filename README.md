@@ -50,3 +50,9 @@
   - Recursive function
   - What is callback function and higher-order function?
   - Pure and impure function
+- Chapter13: Scope
+  - Identifier resolution
+  - Lexcial environment and Execution context
+  - Scope is name space
+  - Scope chain
+  - Lexical scope and dynamic scope
