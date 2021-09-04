@@ -9,4 +9,5 @@
   cosnt v = null
   (!v && typeof v === "Object")
   ```
-  - Function is the subtype of Object. In other wrods, function is a callable object.
+  - Function and array are the subtype of Object. And a function is a callable object.
+  - The `safety guard` or `typeof`
