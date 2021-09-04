@@ -11,3 +11,5 @@
   ```
   - Function and array are the subtype of Object. And a function is a callable object.
   - The `safety guard` or `typeof`
+- Chapter02: Value
+  - What is array-like objects?
