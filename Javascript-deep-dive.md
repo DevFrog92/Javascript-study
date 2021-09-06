@@ -54,3 +54,8 @@
 - Chapter15: let, const keyward and block level scope
   - What is TDZ?
 - Chapter16: Property attribute
+  - Inner slot and inner method `[[...]]`
+  - Property attribute and property descriptor(`getOwnPropertyDescriptor(object,property)`)
+  - Data property and acccessor property
+- Chapter17: Constructor
+  - What is constructor and instance?
