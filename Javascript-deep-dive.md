@@ -59,3 +59,4 @@
   - Data property and acccessor property
 - Chapter17: Constructor
   - What is constructor and instance?
+  - How to make instance?
