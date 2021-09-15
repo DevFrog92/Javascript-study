@@ -60,3 +60,7 @@
 - Chapter17: Constructor
   - What is constructor and instance?
   - How to make instance?
+  - When the `[[new]]` and `[[construct]]` are called?
+  - What is differ between `construct` and `non-construct`?
+  - `new`
+  - Scope-safe constructor
