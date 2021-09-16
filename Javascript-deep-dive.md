@@ -65,3 +65,4 @@
   - `new`
   - Scope-safe constructor
 - Chapter18: function and first-class object
+  - property of function object
