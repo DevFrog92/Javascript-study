@@ -64,3 +64,4 @@
   - What is differ between `construct` and `non-construct`?
   - `new`
   - Scope-safe constructor
+- Chapter18: function and first-class object
