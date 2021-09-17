@@ -64,5 +64,6 @@
   - What is differ between `construct` and `non-construct`?
   - `new`
   - Scope-safe constructor
-- Chapter18: function and first-class object
+- Chapter18: Function and First-class object
   - property of function object
+- Chapter19: Prototype
