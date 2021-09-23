@@ -67,4 +67,5 @@
 - Chapter18: Function and First-class object
   - property of function object
 - Chapter19: Prototype
+  - Property and attribute and abstraction
   - Inheritance
