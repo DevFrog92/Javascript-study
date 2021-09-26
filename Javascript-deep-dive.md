@@ -69,3 +69,4 @@
 - Chapter19: Prototype
   - Property and attribute and abstraction
   - Inheritance
+  - Prototype Object
