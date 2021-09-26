@@ -72,4 +72,6 @@
   - Prototype Object, `[[prototype]]`
   - `__proto__`
   - Prototype property of function object
-  - Prototype chain
+  - Prototype chain and `Object.prototype`
+  - Scope chain and prototype chain
+  - Overriding and property shadowing and overloading
