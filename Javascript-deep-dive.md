@@ -72,4 +72,4 @@
   - Prototype Object, `[[prototype]]`
   - `__proto__`
   - Prototype property of function object
-  -
+  - Prototype chain
