@@ -69,4 +69,7 @@
 - Chapter19: Prototype
   - Property and attribute and abstraction
   - Inheritance
-  - Prototype Object
+  - Prototype Object, `[[prototype]]`
+  - `__proto__`
+  - Prototype property of function object
+  -
