@@ -80,3 +80,5 @@
   - Static methods and prototype methods
 - Chapter20: Strict mode
   - Implicit global
+- Chapter21: Built-in Objects
+  - 
