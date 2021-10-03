@@ -81,4 +81,5 @@
 - Chapter20: Strict mode
   - Implicit global
 - Chapter21: Built-in Objects
-  - 
+  - Wrapper object
+  - Global object(`window in  browser` or `global in node`)
