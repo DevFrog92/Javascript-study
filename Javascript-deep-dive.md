@@ -79,4 +79,4 @@
   - `instanceof` operator
   - Static methods and prototype methods
 - Chapter20: Strict mode
-  - 
+  - Implicit global
