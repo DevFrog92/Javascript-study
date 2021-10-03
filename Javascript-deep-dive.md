@@ -75,3 +75,6 @@
   - Prototype chain and `Object.prototype`
   - Scope chain and prototype chain
   - Overriding and property shadowing and overloading
+  - Change of prototype
+  - `instanceof` operator
+  - Static methods and prototype methods
