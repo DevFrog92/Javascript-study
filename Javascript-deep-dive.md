@@ -83,3 +83,6 @@
 - Chapter21: Built-in Objects
   - Wrapper object
   - Global object(`window in  browser` or `global in node`)
+- Chapter22: this
+  - this binding
+  - the difference between this and lexical scope
