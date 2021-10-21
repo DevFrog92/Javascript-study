@@ -86,3 +86,4 @@
 - Chapter22: this
   - this binding
   - the difference between this and lexical scope
+- Chapter23: Context
