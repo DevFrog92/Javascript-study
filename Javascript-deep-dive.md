@@ -84,6 +84,8 @@
   - Wrapper object
   - Global object(`window in  browser` or `global in node`)
 - Chapter22: this
-  - this binding
-  - the difference between this and lexical scope
+  - `this binding`
+  - Difference between this and lexical scope
 - Chapter23: Context
+  - Source code type
+  - Execution context stack
