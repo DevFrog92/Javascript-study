@@ -91,3 +91,4 @@
   - Source code evaluation and execution
   - Scope, identifier and code execution order managed by execution context
   - Lexical envionment and execution context stack
+  - Generate of execution context and identifier searching process
