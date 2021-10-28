@@ -89,4 +89,5 @@
 - Chapter23: Context
   - Source code type
   - Source code evaluation and execution
-  - Execution context stack
+  - Scope, identifier and code execution order managed by execution context
+  - Lexical envionment and execution context stack
