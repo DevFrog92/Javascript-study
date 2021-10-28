@@ -88,4 +88,5 @@
   - Difference between this and lexical scope
 - Chapter23: Context
   - Source code type
+  - Source code evaluation and execution
   - Execution context stack
