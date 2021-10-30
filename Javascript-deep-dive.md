@@ -92,3 +92,8 @@
   - Scope, identifier and code execution order managed by execution context
   - Lexical envionment and execution context stack
   - Generate of execution context and identifier searching process
+  - Global code evaluation process
+    - generate the global execution context
+    - generate the lexical environment
+    - this binding
+    - determining References to External Lexical Environments
