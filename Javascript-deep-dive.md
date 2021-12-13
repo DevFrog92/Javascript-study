@@ -6,6 +6,7 @@
   - machine code(bit unit) <-compilter or interpreter -> programming language
   -programming laguage = syntax + semantics
 - Chapter02: What is Javascript?
+  - complie, lnik and build
 - Chapter03: Environment of Javascript
 - Chapter04: Variable
   - When are variables declared and assigned?
