@@ -2,6 +2,9 @@
 > TIL from Javascript deep dive
 
 - Chapter01: What is programming?
+  - computational thinking
+  - machine code(bit unit) <-compilter or interpreter -> programming language
+  -programming laguage = syntax + semantics
 - Chapter02: What is Javascript?
 - Chapter03: Environment of Javascript
 - Chapter04: Variable
