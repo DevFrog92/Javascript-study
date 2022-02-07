@@ -48,10 +48,11 @@
   - Pure and impure function
 - Chapter13: Scope
   - Identifier resolution
-  - Lexcial environment and Execution context
+  - Lexical environment and Execution context
   - Scope is name space
   - Scope chain
   - Lexical scope and dynamic scope
+    - The upper scope of a function is determined by where it is defined.
 - Chapter14: The problem of global variable
   - Life cycle of variable
   - Implicit coupling
