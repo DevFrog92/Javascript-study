@@ -58,12 +58,13 @@
   - Implicit coupling
   - Namespace object
   - Module patterns
-- Chapter15: let, const keyward and block level scope
+- Chapter15: let, const keyword and block level scope
   - What is TDZ?
+  - Why we use const or let for declare the variable than var?
 - Chapter16: Property attribute
   - Inner slot and inner method `[[...]]`
   - Property attribute and property descriptor(`getOwnPropertyDescriptor(object,property)`)
-  - Data property and acccessor property
+  - Data property and accessor property
 - Chapter17: Constructor
   - What is constructor and instance?
   - How to make instance?
