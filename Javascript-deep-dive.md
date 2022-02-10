@@ -65,6 +65,8 @@
   - Inner slot and inner method `[[...]]`
   - Property attribute and property descriptor(`getOwnPropertyDescriptor(object,property)`)
   - Data property and accessor property
+  - Prevent object changes
+  - Immutable object by recursion
 - Chapter17: Constructor
   - What is constructor and instance?
   - How to make instance?
