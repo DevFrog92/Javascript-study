@@ -77,7 +77,10 @@
   - `new.target`
   - Scope-safe constructor
 - Chapter18: Function and First-class object
-  - property of function object
+  - Property of function object
+  - Arguments
+  - Prototype property
+  - Caller, length, name, property
 - Chapter19: Prototype
   - Property and attribute and abstraction
   - Inheritance
