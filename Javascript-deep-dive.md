@@ -70,9 +70,11 @@
 - Chapter17: Constructor
   - What is constructor and instance?
   - How to make instance?
+  - What is this in object?
+  - Why the constructor doesn't have return value?
   - When the `[[new]]` and `[[construct]]` are called?
   - What is differ between `construct` and `non-construct`?
-  - `new`
+  - `new.target`
   - Scope-safe constructor
 - Chapter18: Function and First-class object
   - property of function object
