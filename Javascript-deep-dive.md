@@ -89,10 +89,11 @@
   - Prototype property of function object
   - Prototype chain and `Object.prototype`
   - Scope chain and prototype chain
-  - Overriding and property shadowing and overloading
+  - Overriding, property shadowing and overloading
   - Change of prototype
   - `instanceof` operator
   - Static methods and prototype methods
+  - The dangers of `in` and `for...in` syntax
 - Chapter20: Strict mode
   - Implicit global
 - Chapter21: Built-in Objects
