@@ -28,3 +28,6 @@ console.log(circle4.getArea())
 // circle3과 circle4의 getArea 함수는 Circle_proto 생성자 함수의 프로퍼티이다.
 // 밑의 결과는 true가 나온다.
 console.log("constructor function by prototype", circle3.getArea === circle4.getArea)
+
+const person = { name: "yong" }
+console.log("get proto", person)
