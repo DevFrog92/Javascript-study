@@ -106,7 +106,7 @@
   - Source code type
   - Source code evaluation and execution
   - Scope, identifier and code execution order managed by execution context
-  - Lexical envionment and execution context stack
+  - Lexical environment and execution context stack
   - Generate of execution context and identifier searching process
   - Global code evaluation process
     - generate the global execution context
