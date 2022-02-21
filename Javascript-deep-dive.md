@@ -96,6 +96,7 @@
   - The dangers of `in` and `for...in` syntax
 - Chapter20: Strict mode
   - Implicit global
+  - Errors in strict mode
 - Chapter21: Built-in Objects
   - Wrapper object
   - Global object(`window in  browser` or `global in node`)
