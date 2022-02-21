@@ -98,8 +98,11 @@
   - Implicit global
   - Errors in strict mode
 - Chapter21: Built-in Objects
-  - Wrapper object
+  - Primary value and Wrapper object
   - Global object(`window in  browser` or `global in node`)
+  - `globalThis`
+  - `eval`
+  - `encodeURI / decodeURI`
 - Chapter22: this
   - `this binding`
   - Difference between this and lexical scope
