@@ -104,6 +104,7 @@
   - `eval`
   - `encodeURI / decodeURI`
 - Chapter22: this
+  - `this`: self-referencing variable
   - `this binding`
   - Difference between this and lexical scope
 - Chapter23: Context
