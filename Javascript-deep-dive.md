@@ -110,6 +110,7 @@
 - Chapter23: Context
   - Source code type
   - Source code evaluation and execution
+    - [Lexical environment](https://ko.javascript.info/closure#ref-1178)
   - Scope, identifier and code execution order managed by execution context
   - Lexical environment and execution context stack
   - Generate of execution context and identifier searching process
