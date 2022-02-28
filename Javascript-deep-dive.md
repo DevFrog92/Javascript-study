@@ -3,18 +3,18 @@
 
 - Chapter01: What is programming?
   - computational thinking
-  - machine code(bit unit) <-compilter or interpreter -> programming language
-  -programming laguage = syntax + semantics
+  - machine code(bit unit) <-compiler or interpreter -> programming language
+  -programming language = syntax + semantics
 - Chapter02: What is Javascript?
-  - complie, lnik and build
+  - complier, link and build
 - Chapter03: Environment of Javascript
 - Chapter04: Variable
   - When are variables declared and assigned?
   - What is hoisting?
 - Chapter05: Expression and Statement
-  - value, expression, evalutate
+  - value, expression, evaluate
 - Chapter06: Data type
-  - Why we need the datatypes?
+  - Why we need the data types?
   - Primitive and object/reference type
   - What is difference of immutable and mutable?
 - Chapter07: Operator
@@ -22,24 +22,24 @@
   - Conditional statement
     - What is fall through in switch statement?
   - loop statement
-    - What situtations should we use the for or while?
+    - What situations should we use the for or while?
     - What is label statement?
 - Chapter09: Type casting
   - Explicit coercion and Implicit coercion
   - Truthy and falsy value in javascript
-  - Short-circuit evaulation
+  - Short-circuit evaluation
   - Optional chaining `?.`
   - null coalescing `??`
 - Chapter10: Object literal
   - Property and Method
-- Chapter11: Primitive type and Object/refrence type
+- Chapter11: Primitive type and Object/reference type
   - Mutable and immutable value
   - What is pass by value and pass by reference?
   - What is array like object?
   - What is shallow copy and deep copy
 - Chapter12: Function
   - Argument, Parameter, Return value
-  - Functinos are called by identifier, not by function name
+  - Functions are called by identifier, not by function name
   - Javascript function is the first class object
   - What is different between function declaration and function literal?
   - Arrow function(ES6)
@@ -111,6 +111,7 @@
   - Source code type
   - Source code evaluation and execution
     - [Lexical environment](https://ko.javascript.info/closure#ref-1178)
+    - [Lexical environment and closure](https://ko.javascript.info/closure)
   - Scope, identifier and code execution order managed by execution context
   - Lexical environment and execution context stack
   - Generate of execution context and identifier searching process
