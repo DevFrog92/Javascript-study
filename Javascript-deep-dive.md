@@ -107,13 +107,14 @@
   - `this`: self-referencing variable
   - `this binding`
   - Difference between this and lexical scope
-- Chapter23: Context
+- Chapter23: Execution Context
   - Source code type
   - Source code evaluation and execution
     - [Lexical environment](https://ko.javascript.info/closure#ref-1178)
     - [Lexical environment and closure](https://ko.javascript.info/closure)
   - Scope, identifier and code execution order managed by execution context
-  - Lexical environment and execution context stack
+  - `Lexical environment` and `execution context stack`(`call stack`)
+    - `execution context` = `lexical environment` + `variable environment`
   - Generate of execution context and identifier searching process
   - Global code evaluation process
     - generate the global execution context
