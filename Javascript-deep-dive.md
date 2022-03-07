@@ -123,3 +123,6 @@
     - this binding
     - determining References to External Lexical Environments
       - identifier resolution
+- Chapter24: Closure
+  - `scope` === `lexical environment of execution context`
+  - Free variable in closure
