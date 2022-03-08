@@ -126,3 +126,4 @@
 - Chapter24: Closure
   - `scope` === `lexical environment of execution context`
   - Free variable in closure
+  - Encapsulation and information hiding
