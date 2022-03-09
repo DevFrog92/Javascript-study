@@ -127,3 +127,8 @@
   - `scope` === `lexical environment of execution context`
   - Free variable in closure
   - Encapsulation and information hiding
+- Chapter25: Class
+  - `Class` vs `Constructor`
+  - Methods in Class
+  - Class hoisting
+  - Static method vs prototype method
