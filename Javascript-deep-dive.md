@@ -132,3 +132,10 @@
   - Methods in Class
   - Class hoisting
   - Static method vs prototype method
+  - Property & accessor property
+  - Class field
+  - Private property & static property
+  - `extends`
+  - `super`
+  - `[[ConstructorKind]]`
+  - `Symbol.species`
