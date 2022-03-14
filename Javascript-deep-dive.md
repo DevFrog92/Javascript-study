@@ -139,3 +139,10 @@
   - `super`
   - `[[ConstructorKind]]`
   - `Symbol.species`
+- Chapter26: Additional feature of function in ES6
+  - Type of functions
+  - Method
+  - Arrow function
+  - `this` binding of arrow function
+  - `Rest` parameter
+  - Default value of arguments
