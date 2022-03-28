@@ -146,3 +146,6 @@
   - `this` binding of arrow function
   - `Rest` parameter
   - Default value of arguments
+- Chapter27: Array
+  - dense array & sparse array
+  - Array.prototype.methods
