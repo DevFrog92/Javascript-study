@@ -165,3 +165,5 @@
     - toFixed
     - toPrecision
     - toString
+- Chapter29: Math
+  - Math property & method
