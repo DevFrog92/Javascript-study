@@ -149,3 +149,19 @@
 - Chapter27: Array
   - dense array & sparse array
   - Array.prototype.methods
+- Chapter28: Number
+  - Number property
+    - EPSILON
+    - MAX_VALUE & MIN_VALUE
+    - MAX_SAFE_INTEGER & MIN_SAFE_INTEGER
+    - POSITIVE_INFINITE & NEGATIVE_INFINITE
+    - NaN
+  - Number method
+    - isFinite
+    - isInteger
+    - isNaN
+    - isSafeInteger
+    - toExponential
+    - toFixed
+    - toPrecision
+    - toString
