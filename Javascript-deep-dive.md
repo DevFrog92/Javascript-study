@@ -167,3 +167,4 @@
     - toString
 - Chapter29: Math
   - Math property & method
+- Chapter30: Date
