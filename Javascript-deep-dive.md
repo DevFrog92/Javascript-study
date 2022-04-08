@@ -170,3 +170,5 @@
 - Chapter30: Date
 - Chapter31: RegExp
   - test & exec & match
+- Chapter32: String
+  - wrapper object and methods
