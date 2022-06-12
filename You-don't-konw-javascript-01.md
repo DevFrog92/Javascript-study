@@ -55,3 +55,21 @@
     - `0` & `-0`
     - `Number.isNaN()`, `isNegZero()`, `Object.is()`
   - The `void` operator
+
+
+- Chapter03: Native
+  - native는 자바스크립트의 내장 함수다. 대표적인 네이티브들은 다음과 같다.
+    - String()
+    - Number()
+    - Boolean()
+    - Object()
+    - Array()
+    - Function()
+    - RegExp()
+    - Date()
+    - Error()
+    - Symbol()
+  - 객체 래퍼
+  - 내부 프로퍼티 `[[Class]]`
+  - `Boxing`: 원시 값은 프로퍼티나 메서드가 없기 때문에 값을 객체 래퍼로 감싸주어야 한다.
+  - 
