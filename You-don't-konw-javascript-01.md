@@ -72,4 +72,17 @@
   - 객체 래퍼
   - 내부 프로퍼티 `[[Class]]`
   - `Boxing`: 원시 값은 프로퍼티나 메서드가 없기 때문에 값을 객체 래퍼로 감싸주어야 한다.
-  - 
+
+- Chapter04: Coercive type conversion
+  - 타입변환이 명시적인 `type casting` 과 암묵적인 `coercion`
+  - 추상 연산(abstract operation)
+    - `ToString`
+    - `ToBoolean`
+    - `ToNumber`
+      - `valueOf`, `toString`
+    - `ToPrimitive`
+  - JSON 문자열화
+    - `JSON.stringify`
+    - `toJSON`
+  - `falsy` & `truthy` value
+  - `falsy` object
